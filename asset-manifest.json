@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/wava-in-react/static/css/main.26831ca4.css",
+    "main.js": "/wava-in-react/static/js/main.f67e1101.js",
+    "static/js/787.28cb0dcd.chunk.js": "/wava-in-react/static/js/787.28cb0dcd.chunk.js",
+    "static/media/bg.jpg": "/wava-in-react/static/media/bg.132695cfdf39253ee5e7.jpg",
+    "static/media/hand.png": "/wava-in-react/static/media/hand.dfafa3faf92a9ed1de42.png",
+    "static/media/download-mob.png": "/wava-in-react/static/media/download-mob.371ccf91604b41427db4.png",
+    "static/media/right-mob-front.png": "/wava-in-react/static/media/right-mob-front.f3cb24f1904e9cb4c552.png",
+    "static/media/features-mob.png": "/wava-in-react/static/media/features-mob.0b167ca4cf5816c888cc.png",
+    "static/media/right-mob-back.png": "/wava-in-react/static/media/right-mob-back.25493545a64207db226e.png",
+    "static/media/left-mob-front.png": "/wava-in-react/static/media/left-mob-front.b59f52ac9328eafa6113.png",
+    "static/media/mob-bg.jpg": "/wava-in-react/static/media/mob-bg.95d354a5922354def5ab.jpg",
+    "static/media/stars.png": "/wava-in-react/static/media/stars.983584033b0125034b08.png",
+    "static/media/left-mob-back.png": "/wava-in-react/static/media/left-mob-back.e6cd149e35ad5d470d27.png",
+    "static/media/design-thinking (1).png": "/wava-in-react/static/media/design-thinking (1).cd2b2b7456567c5e6b24.png",
+    "static/media/pinterest.png": "/wava-in-react/static/media/pinterest.92051dfa3a3f29c0f835.png",
+    "static/media/twitter.png": "/wava-in-react/static/media/twitter.c08f939e6ae8a4957431.png",
+    "static/media/booking.png": "/wava-in-react/static/media/booking.272f892f075507cef73c.png",
+    "static/media/camera.png": "/wava-in-react/static/media/camera.18a152eb901d166752c1.png",
+    "static/media/happy.png": "/wava-in-react/static/media/happy.3ba697469e7a3ee05b21.png",
+    "static/media/website.png": "/wava-in-react/static/media/website.b22da589ea18b129e146.png",
+    "static/media/web-design.png": "/wava-in-react/static/media/web-design.e7fdce95b28dd26190f2.png",
+    "index.html": "/wava-in-react/index.html",
+    "main.26831ca4.css.map": "/wava-in-react/static/css/main.26831ca4.css.map",
+    "main.f67e1101.js.map": "/wava-in-react/static/js/main.f67e1101.js.map",
+    "787.28cb0dcd.chunk.js.map": "/wava-in-react/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26831ca4.css",
+    "static/js/main.f67e1101.js"
+  ]
+}
